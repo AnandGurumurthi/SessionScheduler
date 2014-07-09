@@ -1,0 +1,5 @@
+Test session A 60min
+Test session B 45min
+Test session C 30min
+Test session D 45min
+Test session E 45min
